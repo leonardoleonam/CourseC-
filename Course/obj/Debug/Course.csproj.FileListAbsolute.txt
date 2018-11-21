@@ -1,7 +1,0 @@
-C:\DevDotNet\Course\Course\bin\Debug\Course.exe.config
-C:\DevDotNet\Course\Course\bin\Debug\Course.exe
-C:\DevDotNet\Course\Course\bin\Debug\Course.pdb
-C:\DevDotNet\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
-C:\DevDotNet\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
-C:\DevDotNet\Course\Course\obj\Debug\Course.exe
-C:\DevDotNet\Course\Course\obj\Debug\Course.pdb
